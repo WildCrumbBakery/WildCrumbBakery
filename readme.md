@@ -1,10 +1,6 @@
-# Restaurant - OnePage HTML5 restaurant Template
+The Wild Crumb Bakery
 
-Restaurant is a clean and professional free Responsive Restaurant template, perfect for restaurants, Restaurant menu Bakery, any food business and personal chef websites. Built with Bootstrap and maintaining best practices of HTML5 / CSS3. It’s responsive too – will fit great on all screens and mobile devices.
-
-<img src="https://cloud.githubusercontent.com/assets/10640964/8260476/cfaac5a0-16e5-11e5-8fc8-e9d3f46796e1.jpg" alt="Free bootstrap restaurant template by themefisher">
-
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you updated with this template.
+Wild Crumb is a homegrown microbakery creating long-fermented sourdough bakes that taste like they were made just for you.
 
 ## Demo & Download
 
